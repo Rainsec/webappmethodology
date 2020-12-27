@@ -25,7 +25,7 @@ For any other port open, the same method applies. If there's a version on it, I'
 That's what I do for nmap. When it comes to hacking at web-apps (`I used to be OK at this until my buddy taught me the ways of patient enumeration`) you want to create a flow of enumeration and always stick to it. Always stick to it even when things are looking rough and you're making no progress, believe me I've hit brick walls sometimes but having trust in the methodology made go back to step 1 and do everything again - always works 
 
 
-The Web-App Enumeration Flow:
+## **The Web-App Enumeration Flow:**
 
 ************
 
