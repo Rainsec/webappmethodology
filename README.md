@@ -1,4 +1,4 @@
-# Web-App Methodology by Rainsec
+# Web-App Methodology
 *My 5-Step methodology for enumerating Web-Apps, aimed at OSCP students/CTF players*
 
 ***************
@@ -55,4 +55,4 @@ Rememeber, you're dealing with an application that was *MADE* to be exploited. I
 
 
 ***Happy Hacking & Try SMARTER.***
-
+*Connect with me @Rainsec_*
