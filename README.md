@@ -1,5 +1,5 @@
-# Web-App Methodology
-My 5-Step methodology for enumerating Web-Apps, aimed at OSCP students/CTF players
+# Web-App Methodology by Rainsec
+*My 5-Step methodology for enumerating Web-Apps, aimed at OSCP students/CTF players*
 
 ***************
 
